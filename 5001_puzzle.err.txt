@@ -1,0 +1,1 @@
+[Errno 2] No such file or directory: "h'"[Errno 2] No such file or directory: 'mario.'[Errno 2] No such file or directory: 'maaaa'[Errno 2] No such file or directory: 'yoshi。puz'[Errno 2] No such file or directory: 'yoshi。puz'[Errno 2] No such file or directory: 'leadertext.txt'[Errno 2] No such file or directory: 'leadertext.txt'
